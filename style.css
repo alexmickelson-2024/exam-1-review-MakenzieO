@@ -6,7 +6,7 @@
   --DarkGray: #0c0c0c;
 }
 body{
-    margin: 0em;
+    margin: 0;
 }
 #banner {
   background-color: var(--SnowBlue);
@@ -46,7 +46,7 @@ body{
   padding: 5%;
 }
 .navCard img {
-  width: 100%;
+    width: 100%;
 }
 #cardContainer
 {
